@@ -1,0 +1,266 @@
+[
+  {
+    "id": "collection-12273dd9",
+    "title": "Studios Series",
+    "folders": [
+      {
+        "id": "folder-a569712f",
+        "title": "Netflix",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/ce8c316a-6446-4326-b1c6-49123bbb60c6.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-f63fe529",
+        "title": "Apple TV+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/cdac3844-0e14-4e61-8c13-93210b7fb92f.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3498d367",
+        "title": "Disney+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5133c022-3333-4f39-bc68-e9236697c2eb.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-dc9f8ef7",
+        "title": "HBO Max",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/66702e8f-e1ca-445f-bb3b-28300567897f.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-d2b30500",
+        "title": "Prime Video",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/154cf8e6-fb82-491c-a751-b7c306dc8a1e.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-89583c11",
+        "title": "Turkish TV",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/cCRdW7kv/IMG-6414.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "com.stremio.plexio",
+            "catalogId": "23"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "collection-0dc3785f",
+    "title": "Studios Movie",
+    "folders": [
+      {
+        "id": "folder-474bc7dd",
+        "title": "Netflix",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-e90b9f8a",
+        "title": "Apple TV+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-551c0590",
+        "title": "Disney+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-a8ab5c06",
+        "title": "HBO Max",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://nuvioapp.space/uploads/covers/1b0ddda8-649e-41f2-af27-70550964f03d.gif",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-f15d4556",
+        "title": "Prime Video",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://media1.tenor.com/m/T7L_NCdPIvAAAAAC/prime-video.gif",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp"
+          }
+        ],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "f84ec595-7cee-465d-86c4-9ffa9063358e",
+    "title": "MBC",
+    "folders": [
+      {
+        "id": "b6206cbc-22f9-4b2c-9ff1-27c9447a63a5",
+        "title": "shahed",
+        "hideTitle": false,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/FHn3MCFG/IMG-6429.gif",
+        "coverImageUrl": "",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "com.stremio.plexio",
+            "catalogId": "17"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "e1ca4a19-ed8d-4516-893f-0fb2d4c8eda1",
+        "title": "Shahed AR",
+        "hideTitle": false,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/vmZ0b3K6/IMG-6433.gif",
+        "coverImageUrl": "",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "com.stremio.plexio",
+            "catalogId": "16"
+          }
+        ],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  }
+]
