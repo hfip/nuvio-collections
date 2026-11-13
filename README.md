@@ -22,4 +22,4 @@ Ready-to-import **Nuvio** collection profiles with Arabic titles, descriptions a
 
 ## License
 
-Not specified yet.
+Data is released under [CC0 1.0](LICENSE) (public domain).
